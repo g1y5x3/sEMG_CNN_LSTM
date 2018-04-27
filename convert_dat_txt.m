@@ -31,3 +31,9 @@ end
 for i = 10:18
     LABEL{i} = 2 * ones(size(DATA{i}{1},1),1);
 end
+
+%% 
+sum = 0;
+for i = 1 : 18
+    sum = sum + size(LABEL{i},1);
+end
