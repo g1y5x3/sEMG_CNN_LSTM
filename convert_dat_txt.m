@@ -33,7 +33,19 @@ for i = 10:18
 end
 
 %% 
-sum = 0;
-for i = 1 : 18
-    sum = sum + size(LABEL{i},1);
+LABEL = [];
+for i = 1 : 9
+    LABEL = vertcat(LABEL, LABEL_DYSFUNC{i});
 end
+
+for i = 1 : 9
+    LABEL = vertcat(LABEL, LABEL_HEALTHY{i});
+end
+
+DATA = vertcat(DATA_DYSFUNC, DATA_HEALTHY);
+LABEL = vertcat(LABEL_DYSFUNC, LABEL_HEALTHY);
+
+%% L
+LABEL_ONE_HOT = [];
+
+ind2vec(LABEL{1}')

@@ -1,0 +1,319 @@
+Total # of Subjects: 18
+Totoal # of Channels: 4
+# of Data Samples for each Subject [163. 165. 165. 165. 164. 165. 165. 165. 165. 165. 165. 165. 165. 164.
+ 165. 165. 165. 165.]
+==============================
+==>Loading testing data......
+Testing Subject 1
+Testing Data Array Size: (163, 8000, 4)
+Label Array Size: (163, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2803.0
+Training Data Array Size: (2803, 8000, 4)
+Label Array Size: (2803, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 829.4535653591156
+==>Finished Training the CNN!
+Test accuracy: 0.533333
+==============================
+==>Loading testing data......
+Testing Subject 2
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 684.3136565685272
+==>Finished Training the CNN!
+Test accuracy: 0.413333
+==============================
+==>Loading testing data......
+Testing Subject 3
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 795.148833990097
+==>Finished Training the CNN!
+Test accuracy: 0.433333
+==============================
+==>Loading testing data......
+Testing Subject 4
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 810.4435977935791
+==>Finished Training the CNN!
+Test accuracy: 0.373333
+==============================
+==>Loading testing data......
+Testing Subject 5
+Testing Data Array Size: (164, 8000, 4)
+Label Array Size: (164, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2802.0
+Training Data Array Size: (2802, 8000, 4)
+Label Array Size: (2802, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 697.3989737033844
+==>Finished Training the CNN!
+Test accuracy: 0.500000
+==============================
+==>Loading testing data......
+Testing Subject 6
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 699.7502491474152
+==>Finished Training the CNN!
+Test accuracy: 0.606667
+==============================
+==>Loading testing data......
+Testing Subject 7
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 785.3095541000366
+==>Finished Training the CNN!
+Test accuracy: 0.573333
+==============================
+==>Loading testing data......
+Testing Subject 8
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 699.8426043987274
+==>Finished Training the CNN!
+Test accuracy: 0.560000
+==============================
+==>Loading testing data......
+Testing Subject 9
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 699.9602763652802
+==>Finished Training the CNN!
+Test accuracy: 0.513333
+==============================
+==>Loading testing data......
+Testing Subject 10
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 669.7963857650757
+==>Finished Training the CNN!
+Test accuracy: 0.400000
+==============================
+==>Loading testing data......
+Testing Subject 11
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 668.3774333000183
+==>Finished Training the CNN!
+Test accuracy: 0.466667
+==============================
+==>Loading testing data......
+Testing Subject 12
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 669.390216588974
+==>Finished Training the CNN!
+Test accuracy: 0.500000
+==============================
+==>Loading testing data......
+Testing Subject 13
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 668.6776912212372
+==>Finished Training the CNN!
+Test accuracy: 0.446667
+==============================
+==>Loading testing data......
+Testing Subject 14
+Testing Data Array Size: (164, 8000, 4)
+Label Array Size: (164, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2802.0
+Training Data Array Size: (2802, 8000, 4)
+Label Array Size: (2802, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 668.9601690769196
+==>Finished Training the CNN!
+Test accuracy: 0.373333
+==============================
+==>Loading testing data......
+Testing Subject 15
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 668.9742348194122
+==>Finished Training the CNN!
+Test accuracy: 0.500000
+==============================
+==>Loading testing data......
+Testing Subject 16
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 668.9835081100464
+==>Finished Training the CNN!
+Test accuracy: 0.453333
+==============================
+==>Loading testing data......
+Testing Subject 17
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 668.4118163585663
+==>Finished Training the CNN!
+Test accuracy: 0.580000
+==============================
+==>Loading testing data......
+Testing Subject 18
+Testing Data Array Size: (165, 8000, 4)
+Label Array Size: (165, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2801.0
+Training Data Array Size: (2801, 8000, 4)
+Label Array Size: (2801, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
+Total Time Spent: 696.4154024124146
+==>Finished Training the CNN!
+Test accuracy: 0.486667
+
+Experiments Results:
+Testing Accuracy: [0.53333336 0.41333333 0.43333337 0.37333333 0.5        0.60666668
+ 0.57333332 0.55999994 0.51333338 0.39999998 0.4666667  0.50000006
+ 0.44666669 0.37333333 0.5        0.45333329 0.57999992 0.48666668]
+Average Training Accuracy: 0.968889
+Average Validation Accuracy: 0.166667
+Average Testing Accuracy: 0.484074
+Total Time Spend: 12841.366072177887

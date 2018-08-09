@@ -1,0 +1,18 @@
+Total # of Subjects: 18
+Totoal # of Channels: 4
+# of Data Samples for each Subject [163. 165. 165. 165. 164. 165. 165. 165. 165. 165. 165. 165. 165. 164.
+ 165. 165. 165. 165.]
+==============================
+==>Loading testing data......
+Testing Subject 1
+Testing Data Array Size: (163, 8000, 4)
+Label Array Size: (163, 2)
+==>Finished obtaining testing data!
+==>Loading training data......
+Total # of training repetitions: 2803.0
+Training Data Array Size: (2803, 8000, 4)
+Label Array Size: (2803, 2)
+==>Finished obtaining training data!
+==>Start building the CNN Model!
+==>Finished building the CNN Model!
+==>Start training the CNN!
